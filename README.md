@@ -16,30 +16,34 @@ Se analizará el comportamiento de los conceptos de corriente y resistencia elé
 
 2. MARCO TEÓRICO (RESUMEN)
 
-![Screenshot]()
+![Screenshot](DEBER3Y4/1.jpg)
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
-![Screenshot]()
-![Screenshot]()
-![Screenshot]()
-![Screenshot]()
-![Screenshot]()
-![Screenshot]()
-![Screenshot]()
-![Screenshot]()
-![Screenshot]()
-![Screenshot]()
-![Screenshot]()
-![Screenshot]()
-![Screenshot]()
-![Screenshot]()
-![Screenshot]()
-![Screenshot]()
-![Screenshot]()
-![Screenshot]()
-![Screenshot]()
-![Screenshot]()
+Resolución del capitulo 3 (ejercicios impares)
+
+![Screenshot](DEBER3Y4/2.jpg)
+![Screenshot](DEBER3Y4/3.jpg)
+![Screenshot](DEBER3Y4/4.jpg)
+![Screenshot](DEBER3Y4/5.jpg)
+![Screenshot](DEBER3Y4/6.jpg)
+![Screenshot](DEBER3Y4/7.jpg)
+![Screenshot](DEBER3Y4/8.jpg)
+![Screenshot](DEBER3Y4/9.jpg)
+![Screenshot](DEBER3Y4/10.jpg)
+
+Resolución del capitulo 4 (ejercicios pares)
+
+![Screenshot](DEBER3Y4/11.jpg)
+![Screenshot](DEBER3Y4/12.jpg)
+![Screenshot](DEBER3Y4/13.jpg)
+![Screenshot](DEBER3Y4/14.jpg)
+![Screenshot](DEBER3Y4/15.jpg)
+![Screenshot](DEBER3Y4/16.jpg)
+![Screenshot](DEBER3Y4/17.jpg)
+![Screenshot](DEBER3Y4/18.jpg)
+![Screenshot](DEBER3Y4/19.jpg)
+![Screenshot](DEBER3Y4/20.jpg)
 
 4. VIDEO
 
