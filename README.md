@@ -47,6 +47,7 @@ Resolución del capitulo 4 (ejercicios pares)
 
 4. VIDEO
 
+https://youtu.be/-uIaiVsJn8A
 
 5. CONCLUSIONES
 
